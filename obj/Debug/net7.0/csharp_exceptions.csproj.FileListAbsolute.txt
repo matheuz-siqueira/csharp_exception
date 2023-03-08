@@ -1,0 +1,15 @@
+/home/matheus/Projetos/csharp_exceptions/bin/Debug/net7.0/csharp_exceptions
+/home/matheus/Projetos/csharp_exceptions/bin/Debug/net7.0/csharp_exceptions.deps.json
+/home/matheus/Projetos/csharp_exceptions/bin/Debug/net7.0/csharp_exceptions.runtimeconfig.json
+/home/matheus/Projetos/csharp_exceptions/bin/Debug/net7.0/csharp_exceptions.dll
+/home/matheus/Projetos/csharp_exceptions/bin/Debug/net7.0/csharp_exceptions.pdb
+/home/matheus/Projetos/csharp_exceptions/obj/Debug/net7.0/csharp_exceptions.csproj.AssemblyReference.cache
+/home/matheus/Projetos/csharp_exceptions/obj/Debug/net7.0/csharp_exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Projetos/csharp_exceptions/obj/Debug/net7.0/csharp_exceptions.AssemblyInfoInputs.cache
+/home/matheus/Projetos/csharp_exceptions/obj/Debug/net7.0/csharp_exceptions.AssemblyInfo.cs
+/home/matheus/Projetos/csharp_exceptions/obj/Debug/net7.0/csharp_exceptions.csproj.CoreCompileInputs.cache
+/home/matheus/Projetos/csharp_exceptions/obj/Debug/net7.0/csharp_exceptions.dll
+/home/matheus/Projetos/csharp_exceptions/obj/Debug/net7.0/refint/csharp_exceptions.dll
+/home/matheus/Projetos/csharp_exceptions/obj/Debug/net7.0/csharp_exceptions.pdb
+/home/matheus/Projetos/csharp_exceptions/obj/Debug/net7.0/csharp_exceptions.genruntimeconfig.cache
+/home/matheus/Projetos/csharp_exceptions/obj/Debug/net7.0/ref/csharp_exceptions.dll
